@@ -12,3 +12,4 @@ old links
 - https://api.mcitomi.hu/youtube/getstream/
 - https://api.mcitomi.hu/youtube/getmeta/
 - https://api.mcitomi.hu/animegun/
+- https://api.mcitomi.hu/mcitomi_discord
