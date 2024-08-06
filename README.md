@@ -2,7 +2,7 @@
 
 old links
 
-- https://api.mcitomi.hu/kretawords/
+- https://api.mcitomi.hu/kretawords/  
 - https://api.mcitomi.hu/cwords/
 - https://api.mcitomi.hu/twitch/user/
 - https://api.mcitomi.hu/twitch/search/
@@ -13,3 +13,6 @@ old links
 - https://api.mcitomi.hu/youtube/getmeta/
 - https://api.mcitomi.hu/animegun/
 - https://api.mcitomi.hu/mcitomi_discord
+
+- https://mcitomi.hu/api/users/ip/ip-string
+- https://mcitomi.hu/api/users/ip/ip-json
