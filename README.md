@@ -23,3 +23,5 @@ old links
 - https://mcitomi.hu/api/users/ip/ip-json
 
 - https://mcitomi.hu/api/discord/getmyflags?value=<user flag value>
+
+- https://mcitomi.hu/api/ai/zapchat (POST) uses zapier beta
