@@ -1,6 +1,6 @@
-﻿# api.mcitomi.hu
+﻿# mcitomi free to use public rest endpoints:
 
-__Old api server links:__
+_Old api server links:_
 
 ### e-kreta hu stuffs
 - https://api.mcitomi.hu/kretawords/  
@@ -17,13 +17,13 @@ __Old api server links:__
 - https://api.mcitomi.hu/youtube/getstream/
 - https://api.mcitomi.hu/youtube/getmeta/
 
-### animegunsub feed
+### [AnimeGun Sub](https://animegunsub.hu/) feed api
 - https://api.mcitomi.hu/animegun/
 
 ### get my discord
 - https://api.mcitomi.hu/mcitomi_discord
 
-__New api server links:__
+_New api server links:_
 - https://mcitomi.hu/api/discord/mcitomi
 
 ### check your ip
@@ -33,6 +33,15 @@ __New api server links:__
 ### discord user flags checker (https://discord-api-types.dev/api/discord-api-types-v10/enum/UserFlags)
 - https://mcitomi.hu/api/discord/getmyflags?value=<user flag value>
 
+### Random memes
 - https://mcitomi.hu/api/v0/dadjokes
-  
+
+### [Footify.hu](https://footify.hu/) api
 - https://mcitomi.hu/api/footify/matches
+
+# Other projects:
+### [MInerva - „Bátor? Okos? Bölcs?”](https://edu-minerva.hu/)
+- https://edu-minerva.hu/
+
+### [Altersrac.hu](https://altersrac.hu/) _inactive_
+
