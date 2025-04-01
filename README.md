@@ -20,6 +20,10 @@ _Old api server links:_
 ### [AnimeGun Sub](https://animegunsub.hu/) feed api
 - https://api.mcitomi.hu/animegun/
 
+### [Üvegvisszaváltás Hatékonyan](https://visszavaltas.oszijacob.com/) Simplified, cached api from mohu map.
+- https://mcitomi.hu/api/visszavaltas/pontok
+- https://mcitomi.hu/api/visszavaltas/pont?id=[pont ID]
+
 ### get my discord
 - https://api.mcitomi.hu/mcitomi_discord
 
