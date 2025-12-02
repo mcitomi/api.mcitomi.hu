@@ -40,6 +40,12 @@ _New api server links:_
 ### Random memes
 - https://mcitomi.hu/api/v0/dadjokes
 
+### Lelki taplalek
+`https://mcitomi.hu/api/lelkitaplalek` <= Random 
+`https://mcitomi.hu/api/lelkitaplalek?list=all` <= összes listazasa
+`https://mcitomi.hu/api/lelkitaplalek?list=topics` <= csak a topicok
+`https://mcitomi.hu/api/lelkitaplalek?topics=imádság` <= Random egy topicon belül
+
 ### [Footify.hu](https://footify.hu/) api
 - https://mcitomi.hu/api/footify/matches
 
@@ -48,4 +54,5 @@ _New api server links:_
 - https://edu-minerva.hu/
 
 ### [Altersrac.hu](https://altersrac.hu/) _inactive_
+
 
